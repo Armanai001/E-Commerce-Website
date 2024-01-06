@@ -1,0 +1,222 @@
+[
+    {
+        "title": "Comp Lap",
+        "slug": "Pc_Red_Comp_Lap_Education",
+        "des": "This Product is calculated in best products of the company. This product has very Powerfull features. You can easily make any type of machine software using this machine.",
+        "category": "Pc",
+        "image": "Pc_Red_Complap.png",
+        "type": "Education",
+        "color": "Red",
+        "price": 299,
+        "availableQty": 23
+    },
+    {
+        "title": "Comp Lap",
+        "slug": "Pc_Blue_Comp_Lap_Education",
+        "des": "This Product is calculated in best products of the company. This product has very Powerfull features. You can easily make any type of machine software using this machine.",
+        "category": "Pc",
+        "image": "Pc_Blue_Complap.png",
+        "type": "Education",
+        "color": "Blue",
+        "price": 299,
+        "availableQty": 12
+    },
+    {
+        "title": "Comp Lap",
+        "slug": "Pc_Black_Comp_Lap_Education",
+        "des": "This Product is calculated in best products of the company. This product has very Powerfull features. You can easily make any type of machine software using this machine.",
+        "category": "Pc",
+        "image": "Pc_Black_Complap.png",
+        "type": "Education",
+        "color": "Black",
+        "price": 299,
+        "availableQty": 23
+    },
+    {
+        "title": "Comp Lap",
+        "slug": "Pc_Green_Comp_Lap_Education",
+        "des": "This Product is calculated in best products of the company. This product has very Powerfull features. You can easily make any type of machine software using this machine.",
+        "category": "Pc",
+        "image": "Pc_Green_Complap.png",
+        "type": "Education",
+        "color": "Green",
+        "price": 299,
+        "availableQty": 34
+    },
+    {
+        "title": "Comp Lap",
+        "slug": "Pc_Pink_Comp_Lap_Education",
+        "des": "This Product is calculated in best products of the company. This product has very Powerfull features. You can easily make any type of machine software using this machine.",
+        "category": "Pc",
+        "image": "Pc_Pink_Complap.png",
+        "type": "Education",
+        "color": "Pink",
+        "price": 299,
+        "availableQty": 90
+    },
+    {
+        "title": "Machine Wall",
+        "slug": "Pc_Red_Machine_Wall_Development",
+        "des": "This Product is calculated in best products of the company. This product has very Powerfull features. You can easily control any type of machine software and hardware using this machine. This is an advance version of comp lap series.",
+        "category": "Pc",
+        "image": "Pc_Red_Machinewall.png",
+        "type": "Development",
+        "color": "Red",
+        "price": 333,
+        "availableQty": 33
+    },
+    {
+        "title": "Machine Wall",
+        "slug": "Pc_Blue_Machine_Wall_Development",
+        "des": "This Product is calculated in best products of the company. This product has very Powerfull features. You can easily control any type of machine software and hardware using this machine. This is an advance version of comp lap series.",
+        "category": "Pc",
+        "image": "Pc_Blue_Machinewall.png",
+        "type": "Development",
+        "color": "Blue",
+        "price": 333,
+        "availableQty": 12
+    },
+    {
+        "title": "Machine Wall",
+        "slug": "Pc_Black_Machine_Wall_Development",
+        "des": "This Product is calculated in best products of the company. This product has very Powerfull features. You can easily control any type of machine software and hardware using this machine. This is an advance version of comp lap series.",
+        "category": "Pc",
+        "image": "Pc_Black_Machinewall.png",
+        "type": "Development",
+        "color": "Black",
+        "price": 333,
+        "availableQty": 32
+    },
+    {
+        "title": "Machine Wall",
+        "slug": "Pc_Green_Machine_Wall_Development",
+        "des": "This Product is calculated in best products of the company. This product has very Powerfull features. You can easily control any type of machine software and hardware using this machine. This is an advance version of comp lap series.",
+        "category": "Pc",
+        "image": "Pc_Green_Machinewall.png",
+        "type": "Development",
+        "color": "Green",
+        "price": 333,
+        "availableQty": 22
+    },
+    {
+        "title": "Machine Wall",
+        "slug": "Pc_Pink_Machine_Wall_Development",
+        "des": "This Product is calculated in best products of the company. This product has very Powerfull features. You can easily control any type of machine software and hardware using this machine. This is an advance version of comp lap series.",
+        "category": "Pc",
+        "image": "Pc_Pink_Machinewall.png",
+        "type": "Development",
+        "color": "Pink",
+        "price": 333,
+        "availableQty": 54
+    },
+    {
+        "title": "Comp Hand",
+        "slug": "Pc_Red_Comp_Hand_Controller",
+        "des": "Used for controlling best ever machines , Robots , pc and tools of every type of company. You can easily connect and control any type of personal robots , development and education devices , tools etc.",
+        "category": "Pc",
+        "image": "Pc_Red_Comphand.png",
+        "type": "Controller",
+        "color": "Red",
+        "price": 200,
+        "availableQty": 5
+    },
+    {
+        "title": "Comp Hand",
+        "slug": "Pc_Blue_Comp_Hand_Controller",
+        "des": "Used for controlling best ever machines , Robots , pc and tools of every type of company. You can easily connect and control any type of personal robots , development and education devices , tools etc.",
+        "category": "Pc",
+        "image": "Pc_Blue_Comphand.png",
+        "type": "Controller",
+        "color": "Blue",
+        "price": 200,
+        "availableQty": 523
+    },
+    {
+        "title": "Comp Hand",
+        "slug": "Pc_Black_Comp_Hand_Controller",
+        "des": "Used for controlling best ever machines , Robots , pc and tools of every type of company. You can easily connect and control any type of personal robots , development and education devices , tools etc.",
+        "category": "Pc",
+        "image": "Pc_Black_Comphand.png",
+        "type": "Controller",
+        "color": "Black",
+        "price": 200,
+        "availableQty": 23
+    },
+    {
+        "title": "Comp Hand",
+        "slug": "Pc_Green_Comp_Hand_Controller",
+        "des": "Used for controlling best ever machines , Robots , pc and tools of every type of company. You can easily connect and control any type of personal robots , development and education devices , tools etc.",
+        "category": "Pc",
+        "image": "Pc_Green_Comphand.png",
+        "type": "Controller",
+        "color": "Green",
+        "price": 200,
+        "availableQty": 5
+    },
+    {
+        "title": "Comp Hand",
+        "slug": "Pc_Pink_Comp_Hand_Controller",
+        "des": "Used for controlling best ever machines , Robots , pc and tools of every type of company. You can easily connect and control any type of personal robots , development and education devices , tools etc.",
+        "category": "Pc",
+        "image": "Pc_Pink_Comphand.png",
+        "type": "Controller",
+        "color": "Pink",
+        "price": 200,
+        "availableQty": 544
+    },
+    {
+        "title": "Comp Cal",
+        "slug": "Pc_Red_Comp_Cal_Education",
+        "des": "Used for calculating performance of best ever machines , Robots , pc and tools of every type of company. You can easily connect and calculate any type of personal robots , development and education devices , tools etc.",
+        "category": "Pc",
+        "image": "Pc_Red_Compcal.png",
+        "type": "Education",
+        "color": "Red",
+        "price": 92,
+        "availableQty": 5
+    },
+    {
+        "title": "Comp Cal",
+        "slug": "Pc_Blue_Comp_Cal_Education",
+        "des": "Used for calculating performance of best ever machines , Robots , pc and tools of every type of company. You can easily connect and calculate any type of personal robots , development and education devices , tools etc.",
+        "category": "Pc",
+        "image": "Pc_Blue_Compcal.png",
+        "type": "Education",
+        "color": "Blue",
+        "price": 92,
+        "availableQty": 33
+    },
+    {
+        "title": "Comp Cal",
+        "slug": "Pc_Black_Comp_Cal_Education",
+        "des": "Used for calculating performance of best ever machines , Robots , pc and tools of every type of company. You can easily connect and calculate any type of personal robots , development and education devices , tools etc.",
+        "category": "Pc",
+        "image": "Pc_Black_Compcal.png",
+        "type": "Education",
+        "color": "Black",
+        "price": 92,
+        "availableQty": 44
+    },
+    {
+        "title": "Comp Cal",
+        "slug": "Pc_Green_Comp_Cal_Education",
+        "des": "Used for calculating performance of best ever machines , Robots , pc and tools of every type of company. You can easily connect and calculate any type of personal robots , development and education devices , tools etc.",
+        "category": "Pc",
+        "image": "Pc_Green_Compcal.png",
+        "type": "Education",
+        "color": "Green",
+        "price": 92,
+        "availableQty": 23
+    },
+    {
+        "title": "Comp Cal",
+        "slug": "Pc_Pink_Comp_Cal_Education",
+        "des": "Used for calculating performance of best ever machines , Robots , pc and tools of every type of company. You can easily connect and calculate any type of personal robots , development and education devices , tools etc.",
+        "category": "Pc",
+        "image": "Pc_Pink_Compcal.png",
+        "type": "Education",
+        "color": "Pink",
+        "price": 92,
+        "availableQty": 12
+    }
+]
